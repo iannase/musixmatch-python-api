@@ -1,3 +1,6 @@
+# Ian Annase
+# 1/24/18
+
 # musixmatch api base url
 base_url = "https://api.musixmatch.com/ws/1.1/"
 
