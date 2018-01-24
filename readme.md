@@ -1,6 +1,6 @@
 # Musixmatch Python API Tutorial for Developers
 
-![Musixmatch](http://apkmos.com/wp-content/uploads/Musixmatch-music-lyrics.jpg)
+![Musixmatch](https://about.musixmatch.com/images/share-image.png)
 
 Use python to interact with the Musixmatch API for song lyrics
 
